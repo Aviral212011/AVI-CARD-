@@ -11,3 +11,7 @@ the preview -
 schematics
 <img width="887" height="539" alt="Screenshot 2026-05-02 181819" src="https://github.com/user-attachments/assets/610ab822-4ef0-4727-82b7-b840b90e0ee0" />
 pcb
+* AI is not used in this project . it is fully made by me .
+* Author -
+  AVIRAL SEN
+  
