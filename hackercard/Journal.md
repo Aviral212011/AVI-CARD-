@@ -11,4 +11,5 @@ i arrange every thing as i want and then wired up every thing after that i added
 i arrange all the text and then i added a qr code which just takes us to my instagram profile . then i downloaded some flag of hackclub and orpherus images  and added that on the backside of our card.
 i also write a quote which you can  see on the backside of the pcb .
 and now i am done with my Hackercard the AVI-CARD . 
-* Time taken - 1.5 hour 
+* Time taken - 1.5 hour
+* Total time - 2.5 hour 
