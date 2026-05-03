@@ -13,3 +13,4 @@ i also write a quote which you can  see on the backside of the pcb .
 and now i am done with my Hackercard the AVI-CARD . 
 * Time taken - 1.5 hour
 * Total time - 2.5 hour 
+*NOTE - journals are added after the completion of the project .
