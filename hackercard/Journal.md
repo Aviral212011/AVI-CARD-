@@ -12,5 +12,8 @@ i arrange all the text and then i added a qr code which just takes us to my inst
 i also write a quote which you can  see on the backside of the pcb .
 and now i am done with my Hackercard the AVI-CARD . 
 * Time taken - 1.5 hour
-* Total time - 2.5 hour 
+# Journal - 3
+my project get rejected as it has large size of capacitors and resistor and i have to change everything . at first i change the footprint from the schematic and then i made thw whole thing again . as the design is in my mind it did not take much time as the it takes on first time . i a made some changes in my design added more images and text which makes it look really cool . i keep the design same but i just modify it . now i hope there will be no issue and my project will get approved.
+* Time taken - 55 min
+* Total time - 3.5 hour 
 *NOTE - journals are added after the completion of the project .
